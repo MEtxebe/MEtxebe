@@ -1,8 +1,10 @@
 <h1>¡Hola! / Hello! 👋 Soy Martin Etxeberria</h1>
 
-🎓 Estudiante de último año de Ingeniería Informática / Final year Computer Engineering student
-💡 Enfocado en Ingeniería del Software / Focused on Software Engineering
-🌍 Nacido en el País Vasco, España / Based in the Basque Country, Spain
+<p align="left">
+  🎓 Estudiante de último año de Ingeniería Informática / Final year Computer Engineering student <br>
+  💡 Enfocado en Ingeniería del Software / Focused on Software Engineering <br>
+  🌍 Nacido en el País Vasco, España / Based in the Basque Country, Spain
+</p>
 
 ---
 
@@ -41,20 +43,27 @@ As a Computer Engineering student, I consider myself a highly dedicated and hard
 ## 📬 Cómo contactarme / How to reach me
 
 Puedes contactarme por correo o a través de LinkedIn.
-
 You can reach me by email or on LinkedIn.
 
-💼 Profesional / Professional
+<br>
+
+<h3>💼 Profesional / Professional</h3>
 <a href="https://www.linkedin.com/in/martin-etxeberria-zubeldia/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
-📧 Correo electrónico / Email
+
+<br>
+
+<h3>📧 Correo electrónico / Email</h3>
 <a href="mailto:martinetxeberriazubeldia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-personal-red?logo=gmail&style=for-the-badge" />
 </a>
-🎓 Académico / Academic
+
+<br>
+
+<h3>🎓 Correo electrónico / Email</h3>
 <a href="mailto:metxeberria045@ikasle.ehu.eus" target="_blank">
-  <img src="https://img.shields.io/badge/EHU%20Outlook-estudiante-blue?logo=microsoftoutlook&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EHU%20Outlook-estudiante-blue?logo=microsoftoutloor&style=for-the-badge" />
 </a>
 
 
