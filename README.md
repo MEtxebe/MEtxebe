@@ -42,10 +42,10 @@ As a Computer Engineering student, I consider myself a highly dedicated and hard
 
 ## 📬 Cómo contactarme / How to reach me
 
-Puedes contactarme por correo o a través de LinkedIn.
-You can reach me by email or on LinkedIn.
+- 🇪🇸 Puedes contactarme por correo o a través de LinkedIn.
+- 🇬🇧 You can reach me by email or on LinkedIn.
 
-<h3>💼 Profesional / Professional</h3>
+<h3>💼 Perfil de Linkedin / Linkedin Profilel</h3>
 <a href="https://www.linkedin.com/in/martin-etxeberria-zubeldia/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
