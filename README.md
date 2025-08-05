@@ -46,7 +46,7 @@ As a Computer Engineering student, I consider myself a highly dedicated and hard
 <br>
 🇬🇧 You can reach me by email or on LinkedIn.
 
-<h3>💼 Perfil de Linkedin / Linkedin Profilel</h3>
+<h3>💼 Perfil de LinkedIn / LinkedIn Profile</h3>
 <a href="https://www.linkedin.com/in/martin-etxeberria-zubeldia/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
